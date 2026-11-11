@@ -1,0 +1,14 @@
+{
+    "experiment": "Experiment 3",
+    "model": "Qwen2.5-1.5B-Instruct",
+    "quantization": "4-bit NF4",
+    "lora_rank": 16,
+    "lora_alpha": 32,
+    "learning_rate": 0.0002,
+    "epochs": 2,
+    "training_runtime_seconds": 2000.743858575821,
+    "training_runtime_minutes": 33.34573097626368,
+    "peak_gpu_memory_gb": 9.414783000946045,
+    "training_loss": 0.0791503624881015,
+    "train_samples": 1360
+}
